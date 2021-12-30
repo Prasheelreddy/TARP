@@ -1,12 +1,12 @@
-# Plant Disease Classification And Weed Detection
+# Plant Disease Classification And Weed Detection 
 
-To Execute the above project
+To Execute the above project 	:technologist:
  <br /> 
  <br /> 
-Download the folder 'Project Code'
+Download the folder 'Project Code' :open_file_folder:	
  <br /> 
  ### Plant Disease Classification
- Run the file named as 'PlantDiseaseClassification.ipynb' on google colab or jupyter Notebook
+ Run the file named as 'PlantDiseaseClassification.ipynb' :running: on google colab or jupyter Notebook
  <br />
  <br /> 
  Now save the output model in your google drive or offline.
@@ -21,7 +21,7 @@ Download the folder 'Project Code'
    Create an account on https://ngrok.com/ to get authentikation token to exposes local server ports to the Internet.
    <br /> 
    <br /> 
-   Place your authentikation token in the 'DeploymentPlantDiseaseClassification.ipynb' file and execute it.There it is.
+   Place your authentikation token in the 'DeploymentPlantDiseaseClassification.ipynb' file and execute it.There it is.:thumbsup:
    
 ### Weed Detection
-Directly execute the 'weed_detection.m' on matlab and give the path to the input image and run the file.
+Directly execute the 'weed_detection.m' on matlab and give the path to the input image and :running:run the file.:clap:
