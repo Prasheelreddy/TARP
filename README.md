@@ -18,7 +18,7 @@ Download the folder 'Project Code' :open_file_folder:
   execute 'DeploymentPlantDiseaseClassification.ipynb' by importing the saved model or connecting it to the google drive
    <br /> 
    <br /> 
-   Create an account on https://ngrok.com/ to get authentikation token to exposes local server ports to the Internet.
+   Create an account on https://ngrok.com/ to get authentikation token to expose local server ports to the Internet.
    <br /> 
    <br /> 
    Place your authentikation token in the 'DeploymentPlantDiseaseClassification.ipynb' file and execute it.There it is.:thumbsup:
